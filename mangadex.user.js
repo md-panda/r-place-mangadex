@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  MangaDex logo goooooo
-// @author       Adcoss95
+// @author       panda__________
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://mangadex.org/favicon.ico
 // @grant        none
