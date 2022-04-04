@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit Place - Armée de Kameto
+// @name         Reddit Place - MangaDex army
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  MangaDex logo goooooo
